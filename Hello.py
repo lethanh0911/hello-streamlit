@@ -24,7 +24,7 @@ def run():
         page_icon="👋",
     )
 
-    st.write("# Welcome to Streamlit! 👋")
+    st.write("# hello mọi người! 👋")
 
     st.sidebar.success("Select a demo above.")
 
