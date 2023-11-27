@@ -24,7 +24,7 @@ def run():
         page_icon="👋",
     )
 
-    st.write("# hello mọi người! 👋")
+    st.write("# hello mọi người :balloon: 👋")
 
     st.sidebar.success("Select a demo above.")
 
